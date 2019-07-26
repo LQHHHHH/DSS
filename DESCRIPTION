@@ -18,7 +18,7 @@ License: GPL
 VignetteBuilder: knitr
 biocViews: Sequencing, RNASeq, DNAMethylation,GeneExpression,
         DifferentialExpression,DifferentialMethylation
-git_url: https://git.bioconductor.org/packages/DSS
+git_url: https://github.com/LQHHHHH/DSS/
 git_branch: RELEASE_3_9
 git_last_commit: ffb502d
 git_last_commit_date: 2019-05-02
