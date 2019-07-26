@@ -16,6 +16,12 @@ Description: DSS is an R library performing differntial analysis for
         Beta-Binomial distributions.
 License: GPL
 VignetteBuilder: knitr
-Suggests: BiocStyle, knitr, rmarkdown
 biocViews: Sequencing, RNASeq, DNAMethylation,GeneExpression,
         DifferentialExpression,DifferentialMethylation
+git_url: https://git.bioconductor.org/packages/DSS
+git_branch: RELEASE_3_9
+git_last_commit: ffb502d
+git_last_commit_date: 2019-05-02
+Date/Publication: 2019-05-02
+NeedsCompilation: yes
+Packaged: 2019-07-26 00:28:52 UTC; biocbuild
